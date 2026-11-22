@@ -1,0 +1,10 @@
+Omar Farooq
+Data Scientist
+
+Experience:
+- Data Scientist at FinEdge (2022-Present): Built churn prediction models (XGBoost) improving retention campaign targeting by 25%. Deployed models via Flask APIs.
+- Data Analyst at Retailytics (2020-2022): SQL reporting and Python-based sales forecasting.
+
+Skills: Python, SQL, scikit-learn, XGBoost, Flask, pandas, machine learning, statistics
+
+Education: MSc Data Science, ITU, 2022

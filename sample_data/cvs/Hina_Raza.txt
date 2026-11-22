@@ -1,0 +1,10 @@
+Hina Raza
+Frontend Engineer
+
+Experience:
+- Frontend Engineer at PixelWorks (2021-Present): Built React/TypeScript component library used across 5 products. Improved page load speed by 35% via code-splitting.
+- Web Developer at StudioNine (2019-2021): Built responsive WordPress and vanilla JS sites for clients.
+
+Skills: React, TypeScript, JavaScript, HTML/CSS, Webpack, accessibility, performance optimization
+
+Education: BSc Software Engineering, GIKI, 2019

@@ -1,0 +1,12 @@
+streamlit
+sentence-transformers
+scikit-learn
+pymupdf
+pytesseract
+pillow
+python-docx
+striprtf
+pywin32; sys_platform == "win32"
+google-genai
+python-dotenv
+reportlab

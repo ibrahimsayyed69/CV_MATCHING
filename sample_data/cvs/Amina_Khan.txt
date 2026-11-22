@@ -1,0 +1,10 @@
+Amina Khan
+Data Analyst
+
+Experience:
+- Data Analyst at Retailytics (2022-Present): Built SQL dashboards tracking sales KPIs across 40 stores, reducing reporting time by 60%. Used Python (pandas) for weekly forecasting.
+- Junior Analyst at MarketPulse (2020-2022): Cleaned and merged survey datasets, created Tableau visualizations for client reports.
+
+Skills: SQL, Python, pandas, Tableau, Excel, A/B testing, statistics
+
+Education: BSc Statistics, University of Karachi, 2020

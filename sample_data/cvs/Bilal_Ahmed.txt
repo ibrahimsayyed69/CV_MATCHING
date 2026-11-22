@@ -1,0 +1,10 @@
+Bilal Ahmed
+Software Engineer
+
+Experience:
+- Backend Engineer at CloudNest (2021-Present): Designed REST APIs in Python/Django serving 2M requests/day. Migrated monolith to microservices on AWS (ECS, Lambda).
+- Software Engineer Intern at DevWorks (2020-2021): Built internal tools in Node.js.
+
+Skills: Python, Django, Node.js, AWS, Docker, PostgreSQL, REST APIs, microservices
+
+Education: BSc Computer Science, FAST-NUCES, 2021
